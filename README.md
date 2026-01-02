@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Mikify - evolving knowledge together
 
 A modern, full-stack web application built to solve a real problem with clean UI, scalable backend, and production-ready architecture.
 
@@ -6,7 +6,7 @@ A modern, full-stack web application built to solve a real problem with clean UI
 
 ## 📌 Overview
 
-**Project Name** is a full-stack application designed for users who want **speed, simplicity, and reliability**.  
+**Mikify** is a full-stack application designed for users who want **speed, simplicity, and reliability**.  
 It focuses on real-world use cases, not tutorials or toy projects.
 
 This project demonstrates:
