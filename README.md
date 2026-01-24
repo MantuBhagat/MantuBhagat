@@ -1,9 +1,9 @@
 👋 Hi, I'm Mantu Kumar Bhagat
 
-🚀 Full Stack Developer (MERN)  
+Full Stack Developer (MERN)  
 HTML5 • CSS3 • JavaScript • React • Node.js • Express • MongoDB  
 Web & Mobile App Developer | Founder @ Mikify  
-📍 India 🇮🇳
+📍 Siwan, Bihar, India 🇮🇳
 
 ---
 
