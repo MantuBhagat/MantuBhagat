@@ -1,48 +1,53 @@
-# 🚀 Mikify - evolving knowledge together
+👋 Hi, I'm Mantu Kumar Bhagat
 
-A modern, full-stack web application built to solve a real problem with clean UI, scalable backend, and production-ready architecture.
-
----
-
-## 📌 Overview
-
-**Mikify** is a full-stack application designed for users who want **speed, simplicity, and reliability**.  
-It focuses on real-world use cases, not tutorials or toy projects.
-
-This project demonstrates:
-- Real authentication flow
-- Clean frontend architecture
-- Scalable backend logic
-- Practical business-ready features
+🚀 Full Stack Developer (MERN)  
+HTML5 • CSS3 • JavaScript • React • Node.js • Express • MongoDB  
+Web & Mobile App Developer | Founder @ Mikify  
+📍 India 🇮🇳
 
 ---
 
-## ✨ Features
+## 👨‍💻 About Me
+I'm a passionate Full Stack Developer focused on building modern, scalable web and mobile applications.  
+I enjoy turning ideas into real products using clean UI, solid backend logic, and practical solutions.
 
-- 🔐 User Authentication (Login / Signup / JWT)
-- 👤 User Profile Management
-- 🌗 Light / Dark Mode
-- ⚡ Fast & Responsive UI
-- 📱 Mobile-friendly Design
-- 🧠 Clean & Maintainable Codebase
+Currently working on **Mikify** — a digital identity & discovery platform for creators, freelancers, and businesses.
 
 ---
 
 ## 🛠 Tech Stack
-
-### Frontend
-- React (Vite)
-- Tailwind CSS
-- Framer Motion
-- React Router
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB (Mongoose)
-- JWT Authentication
-- bcrypt
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Mobile:** React Native (Basics)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Styling:** Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-## 📂 Project Structure
+## 📌 Featured Projects
+🔹 **MERN Authentication System**  
+JWT auth, login/signup, protected routes, password reset  
+👉 Repo: https://github.com/MantuBhagat/mern-auth-system
+
+🔹 **React Portfolio Website**  
+Responsive portfolio built with React & Tailwind CSS  
+👉 Repo: https://github.com/MantuBhagat/react-portfolio
+
+🔹 **Mikify (In Progress 🚧)**  
+A single digital identity platform — presence, discovery & trust  
+👉 Repo: https://github.com/MantuBhagat/mikify
+
+*(Add / remove projects as you build more)*
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 📸 Instagram: https://instagram.com/your-link
+- 💻 GitHub: https://github.com/MantuBhagat
+- 📩 Email: smantu7667@gmail.com
+
+---
+
+⭐ If you like my work, feel free to follow or connect!
