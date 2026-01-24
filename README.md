@@ -44,9 +44,11 @@ A single digital identity platform — presence, discovery & trust
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📸 Instagram: https://instagram.com/your-link
+- 📸 Instagram: https://www.instagram.com/mr.mantukumarbhagat?igsh=bHl6dGQ5cmc3NGFr
 - 💻 GitHub: https://github.com/MantuBhagat
 - 📩 Email: smantu7667@gmail.com
+- Facebook:
+https://www.facebook.com/mantukumarbhagat.in?mibextid=ZbWKwL
 
 ---
 
